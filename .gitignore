@@ -1,0 +1,11 @@
+**/.terraform/*
+*.tfstate*
+crash*.log
+*.tfvars
+*.tfvars.json
+*override.tf*
+*.lock*
+plugin-cache/
+.terraformrc
+terraform.rc
+*imports.tf
